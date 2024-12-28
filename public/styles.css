@@ -54,6 +54,26 @@ h1 {
     color: #444;
 }
 
+.todo-list {
+    margin-top: 1rem;
+    padding-left: 1.5rem;
+}
+
+.todo-list h3 {
+    color: #2d2d2d;
+    margin-bottom: 0.5rem;
+}
+
+.todo-list ol {
+    color: #444;
+    margin: 0;
+    padding-left: 1.2rem;
+}
+
+.todo-list li {
+    margin: 0.5rem 0;
+}
+
 .tools {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
